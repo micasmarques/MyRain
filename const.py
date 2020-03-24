@@ -1,0 +1,40 @@
+# game options/settings
+TITLE = "MyRain"
+
+# 15 x 11
+# WIDTH = 900
+# HEIGHT = 660
+
+
+WIDTH = 1200
+HEIGHT = 660
+
+BLOCKS_SIZE = 60
+
+
+LEVEL_CONTROL = 8
+
+
+# WIDTH = 960
+# HEIGHT = 720
+
+# PLAYER
+FRICTION = -0.018
+CONSTRAIN = 120
+PLATTAFORM_COUNT = 0
+PLATTAFORM_GENERATE = 2
+
+TRANSLATE = 0
+
+FPS = 60
+
+# define colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 0)
+
+grey = (0xc4c4c4)
+BLUE_B = (62, 191, 196)
